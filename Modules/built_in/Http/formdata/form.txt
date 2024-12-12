@@ -1,0 +1,3 @@
+name=Sathish,email=sathish@gmail.com,password=1234567890name=Sathish
+email=sathish@gmail.com
+password=1234567890
